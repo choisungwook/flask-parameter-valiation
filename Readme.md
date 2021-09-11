@@ -3,14 +3,5 @@
 
 <br>
 
-# 준비
-* 파이썬 가상환경
-* [파이썬 패키지 설치](application/requirements.txt)
-
-<br>
-
-# 실행
-```sh
-cd application
-python run.py
-```
+# 적용
+* [flask json타입 request_body 검사](./`flask/Readme.md)
